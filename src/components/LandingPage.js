@@ -23,7 +23,6 @@ export default class LandingPage extends Component<Props> {
               </Button>
             </View>
             <View style={styles.titleContainer}>
-              <Text style={styles.lblStyle}>P O R T A L</Text>
             </View>
             <View style={styles.settingsContainer}>
               <Icon
@@ -115,7 +114,6 @@ export default class LandingPage extends Component<Props> {
               </View>
               <View style={styles.portalInfo}>
                 <View style={styles.portalTitleContainer}>
-                  <Text style={styles.portalTitle}>ABIC Portal</Text>
                 </View>
                 <View style={styles.portalDescContainer}>
                   <Text>Portal for selling products from ABIC</Text>
