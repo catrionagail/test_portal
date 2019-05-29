@@ -44,7 +44,7 @@ export default class LandingPage extends Component<Props> {
 
            <View style={styles.nameContainer}>
             <View style={styles.labelContainer}>
-              <Text style={styles.lblName}>Hello, JHANZ</Text>
+              <Text style={styles.lblName}>Hello, JHANtot</Text>
               <Text style={styles.lblText}>Hello, Idiot</Text>
             </View>
             <View style={styles.selectContainer}>
