@@ -23,7 +23,7 @@ export default class LandingPage extends Component<Props> {
               </Button>
             </View>
             <View style={styles.titleContainer}>
-              <Text style={styles.lblStyle}>P O R T A L</Text>
+              <Text style={styles.lblStyle}>PORTAL</Text>
             </View>
             <View style={styles.settingsContainer}>
               <Icon
