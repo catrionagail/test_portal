@@ -4,7 +4,7 @@ import PureChart from 'react-native-pure-chart';
 
 export default class DashboardTest extends Component<Props> {
   render() {
-    let sampleDataS = [
+    let sampleData = [
     {
       seriesName: 'series1',
       data: [
@@ -32,7 +32,7 @@ export default class DashboardTest extends Component<Props> {
 
       <View style={styles.container}>
 
-        <PureChart data={sampleDataS} type='bar' />
+        <PureChart data={sampleData} type='line' />
       </View>
     );
   }
